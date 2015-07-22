@@ -11,6 +11,8 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+- - - - - 3.1.1 - [18-04-2015] - - - - - - - - - - - - - - - - - - - -
+! Vermeidung gleicher Versionsnummern in verschiedenen CLM Versionen
 
 - - - - - 1.1.1 - [23-01-2015] - - - - - - - - - - - - - - - - - - - -
 + Mehrere Vereine (, als Trennzeichen)
